@@ -1,0 +1,7 @@
+.ui-pnotify-closer,
+.ui-pnotify-sticker {
+    /*float: right;
+    margin-left: .2em;*/
+    float: left;
+    margin-right: .2em;
+}
